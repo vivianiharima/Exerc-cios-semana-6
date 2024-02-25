@@ -20,7 +20,7 @@
     justify-content: space-evenly;
     border: solid rgb(149, 85, 210);
     border-radius: 20px;
-    background-color: rgb(129, 227, 129);
+    background-color: rgb(229, 195, 243);
     padding: 20px;
      }
  #fotoperfil{
@@ -29,4 +29,11 @@
     height: auto;
     display: flex;
     justify-content: end;
+}
+
+.btn{
+    border-radius: 25px;
+    padding: 5px;
+    border: rgb(149, 85, 210) outset; 
+    color: rgb(149, 85, 210);
 }

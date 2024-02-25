@@ -3,3 +3,11 @@ function alerta (){
 }
 
 alerta ()
+
+function alterarTexto(){
+let curiosidadeNova = document.getElementById("curiosidade");
+
+    curiosidadeNova.textContent = "Curiosidade: estudo japonês";
+
+}
+
